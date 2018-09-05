@@ -1,0 +1,58 @@
+#invalid-feedback {
+  color: rgba(255, 0, 0, 0.61);
+}
+
+#valid-feedback {
+  color: rgba(43, 255, 0, 0.61);
+}
+
+.body-design {
+  background-color: rgb(224, 157, 10);
+  height: 16rem;
+}
+
+.design {
+  overflow: hidden;
+  background-image: url('https://images.pexels.com/photos/1070880/pexels-photo-1070880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  height: -webkit-fill-available;
+}
+
+.logo {
+  width: 11rem;
+  position: absolute;
+  margin-top: -2rem;
+}
+
+.tebal-hijau {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: rgb(40, 228, 40);
+}
+
+.just-hijau {
+  font-weight: 700;
+  color: rgb(40, 228, 40);
+}
+
+.just-grey {
+  color: rgb(159, 197, 159);
+}
+
+.nav-inner-cus {
+  padding: 5px 3rem 5px 5px;
+}
+
+.m-t-3 {
+  margin-top: -1.52rem;
+}
+
+.m-t-s {
+  margin-top: -13.1rem;
+  width: 50%;
+}
+
+.center {
+  margin: auto;
+  float: none;
+  display: table !important;
+}
